@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "seor0PpH6o87udAuoYqYoMfzM78zIARMly3YVnhKtCM=",
+  "Source": "WalletServiceAPI",
+  "BasePath": "_content/WalletServiceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
